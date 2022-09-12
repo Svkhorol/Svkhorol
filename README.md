@@ -4,7 +4,7 @@
 _______________________________________________________________________________________
   
   
-Python  
-Pandas  
-PyCharm  
-Jupyter Notebook  
+• Python  
+• Pandas  
+• PyCharm  
+• Jupyter Notebook  
