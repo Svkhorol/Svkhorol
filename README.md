@@ -1,3 +1,8 @@
-Hello!  
-My name is Svetlana and I’m interested in data analysis in science and technology.
+## Hello!  
+## My name is Svetlana and I’m interested in data analysis in science and technology.
 
+
+Python  
+Pandas  
+PyCharm  
+Jupyter Notebook  
