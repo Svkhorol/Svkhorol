@@ -5,7 +5,8 @@ ________________________________________________________________________________
   
 ``` 
 • Python  
-• Pandas  
+• Pandas
+• Seaborn
 • PyCharm  
 • Jupyter Notebook  
 • Mathcad
