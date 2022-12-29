@@ -9,6 +9,7 @@ ________________________________________________________________________________
 • Seaborn
 • PyCharm  
 • Jupyter Notebook  
+• SQL
 • Mathcad
 ```  
 [Main research publications (ResearchGate link)](https://www.researchgate.net/profile/Svetlana-Khorolskaya)
